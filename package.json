@@ -1,0 +1,26 @@
+{
+  "name": "usps",
+  "version": "1.0.0",
+  "description": "A visualization of performance over time between January and October 2020",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/awkircher/usps.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/awkircher/usps/issues"
+  },
+  "homepage": "https://github.com/awkircher/usps#readme",
+  "devDependencies": {
+    "eslint": "^7.13.0",
+    "prettier": "2.1.2",
+    "webpack": "^5.4.0",
+    "webpack-cli": "^4.2.0"
+  }
+}
