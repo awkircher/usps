@@ -1,0 +1,1906 @@
+{
+   "Capital Metro ": [
+      {
+         "Week": "1/4/20",
+         "First-Class Mail": "90.91",
+         "USPS Marketing Mail": "87.74",
+         "Periodicals": "84.43"
+      },
+      {
+         "Week": "1/11/20",
+         "First-Class Mail": "90.38",
+         "USPS Marketing Mail": "82.03",
+         "Periodicals": "83.34"
+      },
+      {
+         "Week": "1/18/20",
+         "First-Class Mail": "92.12",
+         "USPS Marketing Mail": "85.94",
+         "Periodicals": "87.35"
+      },
+      {
+         "Week": "1/25/20",
+         "First-Class Mail": "90.55",
+         "USPS Marketing Mail": "88.62",
+         "Periodicals": "86.04"
+      },
+      {
+         "Week": "2/1/20",
+         "First-Class Mail": "90.22",
+         "USPS Marketing Mail": "88.11",
+         "Periodicals": "85.11"
+      },
+      {
+         "Week": "2/8/20",
+         "First-Class Mail": "91.78",
+         "USPS Marketing Mail": "89.28",
+         "Periodicals": "87.92"
+      },
+      {
+         "Week": "2/15/20",
+         "First-Class Mail": "93.58",
+         "USPS Marketing Mail": "89.84",
+         "Periodicals": "89.34"
+      },
+      {
+         "Week": "2/22/20",
+         "First-Class Mail": "92.29",
+         "USPS Marketing Mail": "90.98",
+         "Periodicals": "85.68"
+      },
+      {
+         "Week": "2/29/20",
+         "First-Class Mail": "92.88",
+         "USPS Marketing Mail": "84.70",
+         "Periodicals": "84.43"
+      },
+      {
+         "Week": "3/7/20",
+         "First-Class Mail": "92.15",
+         "USPS Marketing Mail": "89.99",
+         "Periodicals": "85.58"
+      },
+      {
+         "Week": "3/14/20",
+         "First-Class Mail": "92.86",
+         "USPS Marketing Mail": "89.83",
+         "Periodicals": "85.48"
+      },
+      {
+         "Week": "3/21/20",
+         "First-Class Mail": "93.44",
+         "USPS Marketing Mail": "91.39",
+         "Periodicals": "86.61"
+      },
+      {
+         "Week": "3/28/20",
+         "First-Class Mail": "93.23",
+         "USPS Marketing Mail": "93.33",
+         "Periodicals": "86.46"
+      },
+      {
+         "Week": "4/1/20",
+         "First-Class Mail": "94.20",
+         "USPS Marketing Mail": "90.41",
+         "Periodicals": "86.53"
+      },
+      {
+         "Week": "4/4/20",
+         "First-Class Mail": "92.99",
+         "USPS Marketing Mail": "92.27",
+         "Periodicals": "87.31"
+      },
+      {
+         "Week": "4/11/20",
+         "First-Class Mail": "91.65",
+         "USPS Marketing Mail": "91.72",
+         "Periodicals": "81.63"
+      },
+      {
+         "Week": "4/18/20",
+         "First-Class Mail": "92.87",
+         "USPS Marketing Mail": "92.67",
+         "Periodicals": "84.91"
+      },
+      {
+         "Week": "4/25/20",
+         "First-Class Mail": "92.04",
+         "USPS Marketing Mail": "90.92",
+         "Periodicals": "78.95"
+      },
+      {
+         "Week": "5/2/20",
+         "First-Class Mail": "91.08",
+         "USPS Marketing Mail": "88.45",
+         "Periodicals": "77.63"
+      },
+      {
+         "Week": "5/9/20",
+         "First-Class Mail": "89.71",
+         "USPS Marketing Mail": "86.44",
+         "Periodicals": "68.43"
+      },
+      {
+         "Week": "5/16/20",
+         "First-Class Mail": "91.38",
+         "USPS Marketing Mail": "85.77",
+         "Periodicals": "71.09"
+      },
+      {
+         "Week": "5/23/20",
+         "First-Class Mail": "92.45",
+         "USPS Marketing Mail": "88.50",
+         "Periodicals": "78.75"
+      },
+      {
+         "Week": "5/30/20",
+         "First-Class Mail": "89.55",
+         "USPS Marketing Mail": "88.82",
+         "Periodicals": "77.07"
+      },
+      {
+         "Week": "6/6/20",
+         "First-Class Mail": "90.07",
+         "USPS Marketing Mail": "85.87",
+         "Periodicals": "77.74"
+      },
+      {
+         "Week": "6/13/20",
+         "First-Class Mail": "90.86",
+         "USPS Marketing Mail": "88.67",
+         "Periodicals": "78.93"
+      },
+      {
+         "Week": "6/20/20",
+         "First-Class Mail": "90.76",
+         "USPS Marketing Mail": "89.32",
+         "Periodicals": "81.19"
+      },
+      {
+         "Week": "6/27/20",
+         "First-Class Mail": "91.15",
+         "USPS Marketing Mail": "92.77",
+         "Periodicals": "81.11"
+      },
+      {
+         "Week": "7/1/20",
+         "First-Class Mail": "92.00",
+         "USPS Marketing Mail": "88.45",
+         "Periodicals": "80.37"
+      },
+      {
+         "Week": "7/4/20",
+         "First-Class Mail": "90.81",
+         "USPS Marketing Mail": "86.74",
+         "Periodicals": "72.63"
+      },
+      {
+         "Week": "7/11/20",
+         "First-Class Mail": "87.12",
+         "USPS Marketing Mail": "81.71",
+         "Periodicals": "68.58"
+      },
+      {
+         "Week": "7/18/20",
+         "First-Class Mail": "83.65",
+         "USPS Marketing Mail": "78.91",
+         "Periodicals": "66.25"
+      },
+      {
+         "Week": "7/25/20",
+         "First-Class Mail": "84.31",
+         "USPS Marketing Mail": "79.65",
+         "Periodicals": "65.58"
+      },
+      {
+         "Week": "8/1/20",
+         "First-Class Mail": "83.36",
+         "USPS Marketing Mail": "80.50",
+         "Periodicals": "70.06"
+      },
+      {
+         "Week": "8/8/20",
+         "First-Class Mail": "80.63",
+         "USPS Marketing Mail": "77.33",
+         "Periodicals": "68.21"
+      },
+      {
+         "Week": "8/15/20",
+         "First-Class Mail": "83.11",
+         "USPS Marketing Mail": "80.46",
+         "Periodicals": "68.56"
+      },
+      {
+         "Week": "8/22/20",
+         "First-Class Mail": "86.60",
+         "USPS Marketing Mail": "86.67",
+         "Periodicals": "72.47"
+      },
+      {
+         "Week": "8/29/20",
+         "First-Class Mail": "85.46",
+         "USPS Marketing Mail": "86.13",
+         "Periodicals": "68.95"
+      },
+      {
+         "Week": "9/5/20",
+         "First-Class Mail": "84.59",
+         "USPS Marketing Mail": "82.79",
+         "Periodicals": "77.50"
+      },
+      {
+         "Week": "9/12/20",
+         "First-Class Mail": "83.09",
+         "USPS Marketing Mail": "81.13",
+         "Periodicals": "73.59"
+      },
+      {
+         "Week": "9/19/20",
+         "First-Class Mail": "78.70",
+         "USPS Marketing Mail": "82.41",
+         "Periodicals": "75.40"
+      },
+      {
+         "Week": "9/26/20",
+         "First-Class Mail": "82.65",
+         "USPS Marketing Mail": "85.60",
+         "Periodicals": "71.66"
+      },
+      {
+         "Week": "10/3/20",
+         "First-Class Mail": "82.47",
+         "USPS Marketing Mail": "84.14",
+         "Periodicals": "74.88"
+      },
+      {
+         "Week": "10/10/20",
+         "First-Class Mail": "80.76",
+         "USPS Marketing Mail": "79.76",
+         "Periodicals": "69.98"
+      },
+      {
+         "Week": "10/17/20",
+         "First-Class Mail": "73.69",
+         "USPS Marketing Mail": "75.48",
+         "Periodicals": "68.29"
+      },
+      {
+         "Week": "10/24/20",
+         "First-Class Mail": "74.19",
+         "USPS Marketing Mail": "71.22",
+         "Periodicals": "62.56"
+      }
+   ],
+   "Eastern ": [
+      {
+         "Week": "1/4/20",
+         "First-Class Mail": "91.55",
+         "USPS Marketing Mail": "92.72",
+         "Periodicals": "87.05"
+      },
+      {
+         "Week": "1/11/20",
+         "First-Class Mail": "92.64",
+         "USPS Marketing Mail": "90.84",
+         "Periodicals": "89.31"
+      },
+      {
+         "Week": "1/18/20",
+         "First-Class Mail": "93.93",
+         "USPS Marketing Mail": "92.72",
+         "Periodicals": "91.71"
+      },
+      {
+         "Week": "1/25/20",
+         "First-Class Mail": "92.21",
+         "USPS Marketing Mail": "94.23",
+         "Periodicals": "87.53"
+      },
+      {
+         "Week": "2/1/20",
+         "First-Class Mail": "92.30",
+         "USPS Marketing Mail": "93.80",
+         "Periodicals": "91.07"
+      },
+      {
+         "Week": "2/8/20",
+         "First-Class Mail": "93.13",
+         "USPS Marketing Mail": "94.04",
+         "Periodicals": "89.85"
+      },
+      {
+         "Week": "2/15/20",
+         "First-Class Mail": "94.59",
+         "USPS Marketing Mail": "94.32",
+         "Periodicals": "91.21"
+      },
+      {
+         "Week": "2/22/20",
+         "First-Class Mail": "93.18",
+         "USPS Marketing Mail": "95.21",
+         "Periodicals": "90.93"
+      },
+      {
+         "Week": "2/29/20",
+         "First-Class Mail": "93.38",
+         "USPS Marketing Mail": "94.95",
+         "Periodicals": "90.31"
+      },
+      {
+         "Week": "3/7/20",
+         "First-Class Mail": "92.88",
+         "USPS Marketing Mail": "94.59",
+         "Periodicals": "90.24"
+      },
+      {
+         "Week": "3/14/20",
+         "First-Class Mail": "92.91",
+         "USPS Marketing Mail": "94.37",
+         "Periodicals": "88.19"
+      },
+      {
+         "Week": "3/21/20",
+         "First-Class Mail": "93.69",
+         "USPS Marketing Mail": "94.15",
+         "Periodicals": "88.22"
+      },
+      {
+         "Week": "3/28/20",
+         "First-Class Mail": "93.37",
+         "USPS Marketing Mail": "95.10",
+         "Periodicals": "88.79"
+      },
+      {
+         "Week": "4/1/20",
+         "First-Class Mail": "93.95",
+         "USPS Marketing Mail": "93.45",
+         "Periodicals": "88.85"
+      },
+      {
+         "Week": "4/4/20",
+         "First-Class Mail": "92.93",
+         "USPS Marketing Mail": "93.34",
+         "Periodicals": "87.38"
+      },
+      {
+         "Week": "4/11/20",
+         "First-Class Mail": "91.43",
+         "USPS Marketing Mail": "91.62",
+         "Periodicals": "80.24"
+      },
+      {
+         "Week": "4/18/20",
+         "First-Class Mail": "92.12",
+         "USPS Marketing Mail": "92.55",
+         "Periodicals": "81.49"
+      },
+      {
+         "Week": "4/25/20",
+         "First-Class Mail": "91.18",
+         "USPS Marketing Mail": "90.27",
+         "Periodicals": "77.48"
+      },
+      {
+         "Week": "5/2/20",
+         "First-Class Mail": "91.23",
+         "USPS Marketing Mail": "90.78",
+         "Periodicals": "79.48"
+      },
+      {
+         "Week": "5/9/20",
+         "First-Class Mail": "91.38",
+         "USPS Marketing Mail": "91.40",
+         "Periodicals": "72.02"
+      },
+      {
+         "Week": "5/16/20",
+         "First-Class Mail": "91.88",
+         "USPS Marketing Mail": "92.85",
+         "Periodicals": "77.68"
+      },
+      {
+         "Week": "5/23/20",
+         "First-Class Mail": "93.24",
+         "USPS Marketing Mail": "90.27",
+         "Periodicals": "80.40"
+      },
+      {
+         "Week": "5/30/20",
+         "First-Class Mail": "91.66",
+         "USPS Marketing Mail": "92.04",
+         "Periodicals": "80.77"
+      },
+      {
+         "Week": "6/6/20",
+         "First-Class Mail": "92.14",
+         "USPS Marketing Mail": "91.98",
+         "Periodicals": "81.58"
+      },
+      {
+         "Week": "6/13/20",
+         "First-Class Mail": "92.73",
+         "USPS Marketing Mail": "92.57",
+         "Periodicals": "82.71"
+      },
+      {
+         "Week": "6/20/20",
+         "First-Class Mail": "92.34",
+         "USPS Marketing Mail": "91.98",
+         "Periodicals": "82.02"
+      },
+      {
+         "Week": "6/27/20",
+         "First-Class Mail": "92.27",
+         "USPS Marketing Mail": "93.63",
+         "Periodicals": "83.13"
+      },
+      {
+         "Week": "7/1/20",
+         "First-Class Mail": "93.02",
+         "USPS Marketing Mail": "92.33",
+         "Periodicals": "80.62"
+      },
+      {
+         "Week": "7/4/20",
+         "First-Class Mail": "91.09",
+         "USPS Marketing Mail": "89.09",
+         "Periodicals": "78.91"
+      },
+      {
+         "Week": "7/11/20",
+         "First-Class Mail": "85.29",
+         "USPS Marketing Mail": "82.02",
+         "Periodicals": "74.92"
+      },
+      {
+         "Week": "7/18/20",
+         "First-Class Mail": "79.00",
+         "USPS Marketing Mail": "74.45",
+         "Periodicals": "73.60"
+      },
+      {
+         "Week": "7/25/20",
+         "First-Class Mail": "78.04",
+         "USPS Marketing Mail": "79.19",
+         "Periodicals": "72.43"
+      },
+      {
+         "Week": "8/1/20",
+         "First-Class Mail": "79.75",
+         "USPS Marketing Mail": "81.17",
+         "Periodicals": "68.68"
+      },
+      {
+         "Week": "8/8/20",
+         "First-Class Mail": "78.98",
+         "USPS Marketing Mail": "80.10",
+         "Periodicals": "71.14"
+      },
+      {
+         "Week": "8/15/20",
+         "First-Class Mail": "83.65",
+         "USPS Marketing Mail": "85.46",
+         "Periodicals": "75.94"
+      },
+      {
+         "Week": "8/22/20",
+         "First-Class Mail": "88.25",
+         "USPS Marketing Mail": "90.73",
+         "Periodicals": "78.16"
+      },
+      {
+         "Week": "8/29/20",
+         "First-Class Mail": "88.53",
+         "USPS Marketing Mail": "90.51",
+         "Periodicals": "77.46"
+      },
+      {
+         "Week": "9/5/20",
+         "First-Class Mail": "88.90",
+         "USPS Marketing Mail": "88.92",
+         "Periodicals": "80.83"
+      },
+      {
+         "Week": "9/12/20",
+         "First-Class Mail": "86.27",
+         "USPS Marketing Mail": "86.20",
+         "Periodicals": "78.87"
+      },
+      {
+         "Week": "9/19/20",
+         "First-Class Mail": "82.98",
+         "USPS Marketing Mail": "87.18",
+         "Periodicals": "81.00"
+      },
+      {
+         "Week": "9/26/20",
+         "First-Class Mail": "84.81",
+         "USPS Marketing Mail": "89.98",
+         "Periodicals": "78.69"
+      },
+      {
+         "Week": "10/3/20",
+         "First-Class Mail": "83.72",
+         "USPS Marketing Mail": "88.29",
+         "Periodicals": "82.54"
+      },
+      {
+         "Week": "10/10/20",
+         "First-Class Mail": "82.90",
+         "USPS Marketing Mail": "85.10",
+         "Periodicals": "79.03"
+      },
+      {
+         "Week": "10/17/20",
+         "First-Class Mail": "75.39",
+         "USPS Marketing Mail": "82.14",
+         "Periodicals": "72.63"
+      },
+      {
+         "Week": "10/24/20",
+         "First-Class Mail": "74.07",
+         "USPS Marketing Mail": "80.32",
+         "Periodicals": "74.97"
+      }
+   ],
+   "Great Lakes ": [
+      {
+         "Week": "1/4/20",
+         "First-Class Mail": "91.09",
+         "USPS Marketing Mail": "91.75",
+         "Periodicals": "85.58"
+      },
+      {
+         "Week": "1/11/20",
+         "First-Class Mail": "90.97",
+         "USPS Marketing Mail": "89.42",
+         "Periodicals": "87.13"
+      },
+      {
+         "Week": "1/18/20",
+         "First-Class Mail": "92.29",
+         "USPS Marketing Mail": "89.60",
+         "Periodicals": "86.96"
+      },
+      {
+         "Week": "1/25/20",
+         "First-Class Mail": "90.07",
+         "USPS Marketing Mail": "90.56",
+         "Periodicals": "86.47"
+      },
+      {
+         "Week": "2/1/20",
+         "First-Class Mail": "88.41",
+         "USPS Marketing Mail": "89.81",
+         "Periodicals": "86.19"
+      },
+      {
+         "Week": "2/8/20",
+         "First-Class Mail": "91.63",
+         "USPS Marketing Mail": "90.76",
+         "Periodicals": "87.53"
+      },
+      {
+         "Week": "2/15/20",
+         "First-Class Mail": "93.02",
+         "USPS Marketing Mail": "91.19",
+         "Periodicals": "87.26"
+      },
+      {
+         "Week": "2/22/20",
+         "First-Class Mail": "92.07",
+         "USPS Marketing Mail": "92.50",
+         "Periodicals": "84.37"
+      },
+      {
+         "Week": "2/29/20",
+         "First-Class Mail": "92.35",
+         "USPS Marketing Mail": "89.88",
+         "Periodicals": "84.11"
+      },
+      {
+         "Week": "3/7/20",
+         "First-Class Mail": "92.02",
+         "USPS Marketing Mail": "91.07",
+         "Periodicals": "86.81"
+      },
+      {
+         "Week": "3/14/20",
+         "First-Class Mail": "91.48",
+         "USPS Marketing Mail": "90.71",
+         "Periodicals": "84.42"
+      },
+      {
+         "Week": "3/21/20",
+         "First-Class Mail": "91.76",
+         "USPS Marketing Mail": "89.84",
+         "Periodicals": "82.94"
+      },
+      {
+         "Week": "3/28/20",
+         "First-Class Mail": "90.41",
+         "USPS Marketing Mail": "88.33",
+         "Periodicals": "82.87"
+      },
+      {
+         "Week": "4/1/20",
+         "First-Class Mail": "90.01",
+         "USPS Marketing Mail": "77.95",
+         "Periodicals": "77.26"
+      },
+      {
+         "Week": "4/4/20",
+         "First-Class Mail": "88.16",
+         "USPS Marketing Mail": "82.15",
+         "Periodicals": "76.87"
+      },
+      {
+         "Week": "4/11/20",
+         "First-Class Mail": "84.87",
+         "USPS Marketing Mail": "79.25",
+         "Periodicals": "73.14"
+      },
+      {
+         "Week": "4/18/20",
+         "First-Class Mail": "88.59",
+         "USPS Marketing Mail": "75.22",
+         "Periodicals": "67.57"
+      },
+      {
+         "Week": "4/25/20",
+         "First-Class Mail": "88.23",
+         "USPS Marketing Mail": "76.82",
+         "Periodicals": "69.61"
+      },
+      {
+         "Week": "5/2/20",
+         "First-Class Mail": "87.51",
+         "USPS Marketing Mail": "76.09",
+         "Periodicals": "57.75"
+      },
+      {
+         "Week": "5/9/20",
+         "First-Class Mail": "87.46",
+         "USPS Marketing Mail": "77.87",
+         "Periodicals": "69.07"
+      },
+      {
+         "Week": "5/16/20",
+         "First-Class Mail": "89.26",
+         "USPS Marketing Mail": "86.85",
+         "Periodicals": "61.82"
+      },
+      {
+         "Week": "5/23/20",
+         "First-Class Mail": "91.17",
+         "USPS Marketing Mail": "87.53",
+         "Periodicals": "74.02"
+      },
+      {
+         "Week": "5/30/20",
+         "First-Class Mail": "89.76",
+         "USPS Marketing Mail": "89.69",
+         "Periodicals": "77.53"
+      },
+      {
+         "Week": "6/6/20",
+         "First-Class Mail": "90.21",
+         "USPS Marketing Mail": "87.33",
+         "Periodicals": "74.99"
+      },
+      {
+         "Week": "6/13/20",
+         "First-Class Mail": "90.97",
+         "USPS Marketing Mail": "89.14",
+         "Periodicals": "74.19"
+      },
+      {
+         "Week": "6/20/20",
+         "First-Class Mail": "89.81",
+         "USPS Marketing Mail": "89.73",
+         "Periodicals": "75.24"
+      },
+      {
+         "Week": "6/27/20",
+         "First-Class Mail": "89.77",
+         "USPS Marketing Mail": "91.01",
+         "Periodicals": "76.46"
+      },
+      {
+         "Week": "7/1/20",
+         "First-Class Mail": "90.23",
+         "USPS Marketing Mail": "85.87",
+         "Periodicals": "71.64"
+      },
+      {
+         "Week": "7/4/20",
+         "First-Class Mail": "88.34",
+         "USPS Marketing Mail": "84.28",
+         "Periodicals": "71.03"
+      },
+      {
+         "Week": "7/11/20",
+         "First-Class Mail": "82.40",
+         "USPS Marketing Mail": "79.74",
+         "Periodicals": "70.99"
+      },
+      {
+         "Week": "7/18/20",
+         "First-Class Mail": "81.14",
+         "USPS Marketing Mail": "77.52",
+         "Periodicals": "63.56"
+      },
+      {
+         "Week": "7/25/20",
+         "First-Class Mail": "80.71",
+         "USPS Marketing Mail": "73.47",
+         "Periodicals": "56.85"
+      },
+      {
+         "Week": "8/1/20",
+         "First-Class Mail": "79.49",
+         "USPS Marketing Mail": "71.24",
+         "Periodicals": "58.93"
+      },
+      {
+         "Week": "8/8/20",
+         "First-Class Mail": "79.25",
+         "USPS Marketing Mail": "71.67",
+         "Periodicals": "64.06"
+      },
+      {
+         "Week": "8/15/20",
+         "First-Class Mail": "83.71",
+         "USPS Marketing Mail": "80.19",
+         "Periodicals": "69.20"
+      },
+      {
+         "Week": "8/22/20",
+         "First-Class Mail": "86.38",
+         "USPS Marketing Mail": "83.87",
+         "Periodicals": "71.19"
+      },
+      {
+         "Week": "8/29/20",
+         "First-Class Mail": "87.40",
+         "USPS Marketing Mail": "84.83",
+         "Periodicals": "75.90"
+      },
+      {
+         "Week": "9/5/20",
+         "First-Class Mail": "87.47",
+         "USPS Marketing Mail": "84.88",
+         "Periodicals": "76.27"
+      },
+      {
+         "Week": "9/12/20",
+         "First-Class Mail": "85.18",
+         "USPS Marketing Mail": "85.03",
+         "Periodicals": "72.83"
+      },
+      {
+         "Week": "9/19/20",
+         "First-Class Mail": "78.16",
+         "USPS Marketing Mail": "86.75",
+         "Periodicals": "71.82"
+      },
+      {
+         "Week": "9/26/20",
+         "First-Class Mail": "81.14",
+         "USPS Marketing Mail": "83.62",
+         "Periodicals": "72.51"
+      },
+      {
+         "Week": "10/3/20",
+         "First-Class Mail": "83.53",
+         "USPS Marketing Mail": "82.67",
+         "Periodicals": "69.51"
+      },
+      {
+         "Week": "10/10/20",
+         "First-Class Mail": "83.25",
+         "USPS Marketing Mail": "82.25",
+         "Periodicals": "74.09"
+      },
+      {
+         "Week": "10/17/20",
+         "First-Class Mail": "79.87",
+         "USPS Marketing Mail": "85.71",
+         "Periodicals": "68.95"
+      },
+      {
+         "Week": "10/24/20",
+         "First-Class Mail": "80.44",
+         "USPS Marketing Mail": "85.00",
+         "Periodicals": "69.24"
+      }
+   ],
+   "Northeast ": [
+      {
+         "Week": "1/4/20",
+         "First-Class Mail": "91.24",
+         "USPS Marketing Mail": "89.76",
+         "Periodicals": "84.39"
+      },
+      {
+         "Week": "1/11/20",
+         "First-Class Mail": "91.20",
+         "USPS Marketing Mail": "87.80",
+         "Periodicals": "80.59"
+      },
+      {
+         "Week": "1/18/20",
+         "First-Class Mail": "92.10",
+         "USPS Marketing Mail": "88.72",
+         "Periodicals": "82.77"
+      },
+      {
+         "Week": "1/25/20",
+         "First-Class Mail": "90.46",
+         "USPS Marketing Mail": "91.32",
+         "Periodicals": "83.49"
+      },
+      {
+         "Week": "2/1/20",
+         "First-Class Mail": "91.45",
+         "USPS Marketing Mail": "90.47",
+         "Periodicals": "85.06"
+      },
+      {
+         "Week": "2/8/20",
+         "First-Class Mail": "91.74",
+         "USPS Marketing Mail": "91.17",
+         "Periodicals": "85.51"
+      },
+      {
+         "Week": "2/15/20",
+         "First-Class Mail": "93.41",
+         "USPS Marketing Mail": "92.07",
+         "Periodicals": "86.55"
+      },
+      {
+         "Week": "2/22/20",
+         "First-Class Mail": "92.49",
+         "USPS Marketing Mail": "91.98",
+         "Periodicals": "81.32"
+      },
+      {
+         "Week": "2/29/20",
+         "First-Class Mail": "92.77",
+         "USPS Marketing Mail": "92.03",
+         "Periodicals": "82.54"
+      },
+      {
+         "Week": "3/7/20",
+         "First-Class Mail": "91.80",
+         "USPS Marketing Mail": "90.96",
+         "Periodicals": "82.34"
+      },
+      {
+         "Week": "3/14/20",
+         "First-Class Mail": "90.56",
+         "USPS Marketing Mail": "87.27",
+         "Periodicals": "80.50"
+      },
+      {
+         "Week": "3/21/20",
+         "First-Class Mail": "91.17",
+         "USPS Marketing Mail": "89.73",
+         "Periodicals": "78.18"
+      },
+      {
+         "Week": "3/28/20",
+         "First-Class Mail": "91.02",
+         "USPS Marketing Mail": "89.99",
+         "Periodicals": "73.87"
+      },
+      {
+         "Week": "4/1/20",
+         "First-Class Mail": "90.88",
+         "USPS Marketing Mail": "86.98",
+         "Periodicals": "76.26"
+      },
+      {
+         "Week": "4/4/20",
+         "First-Class Mail": "88.48",
+         "USPS Marketing Mail": "77.40",
+         "Periodicals": "63.52"
+      },
+      {
+         "Week": "4/11/20",
+         "First-Class Mail": "84.09",
+         "USPS Marketing Mail": "74.19",
+         "Periodicals": "50.42"
+      },
+      {
+         "Week": "4/18/20",
+         "First-Class Mail": "85.91",
+         "USPS Marketing Mail": "76.41",
+         "Periodicals": "51.08"
+      },
+      {
+         "Week": "4/25/20",
+         "First-Class Mail": "85.57",
+         "USPS Marketing Mail": "72.43",
+         "Periodicals": "39.24"
+      },
+      {
+         "Week": "5/2/20",
+         "First-Class Mail": "84.12",
+         "USPS Marketing Mail": "70.03",
+         "Periodicals": "41.35"
+      },
+      {
+         "Week": "5/9/20",
+         "First-Class Mail": "85.26",
+         "USPS Marketing Mail": "77.96",
+         "Periodicals": "42.51"
+      },
+      {
+         "Week": "5/16/20",
+         "First-Class Mail": "88.56",
+         "USPS Marketing Mail": "82.29",
+         "Periodicals": "50.58"
+      },
+      {
+         "Week": "5/23/20",
+         "First-Class Mail": "89.48",
+         "USPS Marketing Mail": "84.53",
+         "Periodicals": "53.41"
+      },
+      {
+         "Week": "5/30/20",
+         "First-Class Mail": "87.84",
+         "USPS Marketing Mail": "87.90",
+         "Periodicals": "63.01"
+      },
+      {
+         "Week": "6/6/20",
+         "First-Class Mail": "88.25",
+         "USPS Marketing Mail": "87.13",
+         "Periodicals": "56.93"
+      },
+      {
+         "Week": "6/13/20",
+         "First-Class Mail": "90.14",
+         "USPS Marketing Mail": "88.42",
+         "Periodicals": "64.55"
+      },
+      {
+         "Week": "6/20/20",
+         "First-Class Mail": "89.56",
+         "USPS Marketing Mail": "88.73",
+         "Periodicals": "65.60"
+      },
+      {
+         "Week": "6/27/20",
+         "First-Class Mail": "89.51",
+         "USPS Marketing Mail": "88.39",
+         "Periodicals": "72.75"
+      },
+      {
+         "Week": "7/1/20",
+         "First-Class Mail": "90.83",
+         "USPS Marketing Mail": "91.06",
+         "Periodicals": "72.12"
+      },
+      {
+         "Week": "7/4/20",
+         "First-Class Mail": "89.87",
+         "USPS Marketing Mail": "87.65",
+         "Periodicals": "71.70"
+      },
+      {
+         "Week": "7/11/20",
+         "First-Class Mail": "84.25",
+         "USPS Marketing Mail": "84.79",
+         "Periodicals": "65.70"
+      },
+      {
+         "Week": "7/18/20",
+         "First-Class Mail": "82.64",
+         "USPS Marketing Mail": "84.28",
+         "Periodicals": "66.32"
+      },
+      {
+         "Week": "7/25/20",
+         "First-Class Mail": "85.58",
+         "USPS Marketing Mail": "86.14",
+         "Periodicals": "65.67"
+      },
+      {
+         "Week": "8/1/20",
+         "First-Class Mail": "84.29",
+         "USPS Marketing Mail": "81.54",
+         "Periodicals": "65.51"
+      },
+      {
+         "Week": "8/8/20",
+         "First-Class Mail": "81.26",
+         "USPS Marketing Mail": "82.96",
+         "Periodicals": "64.34"
+      },
+      {
+         "Week": "8/15/20",
+         "First-Class Mail": "85.91",
+         "USPS Marketing Mail": "88.91",
+         "Periodicals": "68.93"
+      },
+      {
+         "Week": "8/22/20",
+         "First-Class Mail": "88.33",
+         "USPS Marketing Mail": "89.24",
+         "Periodicals": "71.73"
+      },
+      {
+         "Week": "8/29/20",
+         "First-Class Mail": "89.74",
+         "USPS Marketing Mail": "90.17",
+         "Periodicals": "72.70"
+      },
+      {
+         "Week": "9/5/20",
+         "First-Class Mail": "90.13",
+         "USPS Marketing Mail": "89.12",
+         "Periodicals": "78.47"
+      },
+      {
+         "Week": "9/12/20",
+         "First-Class Mail": "87.71",
+         "USPS Marketing Mail": "86.36",
+         "Periodicals": "70.70"
+      },
+      {
+         "Week": "9/19/20",
+         "First-Class Mail": "85.24",
+         "USPS Marketing Mail": "89.17",
+         "Periodicals": "75.71"
+      },
+      {
+         "Week": "9/26/20",
+         "First-Class Mail": "88.55",
+         "USPS Marketing Mail": "92.06",
+         "Periodicals": "78.59"
+      },
+      {
+         "Week": "10/3/20",
+         "First-Class Mail": "88.25",
+         "USPS Marketing Mail": "90.32",
+         "Periodicals": "77.52"
+      },
+      {
+         "Week": "10/10/20",
+         "First-Class Mail": "88.01",
+         "USPS Marketing Mail": "88.06",
+         "Periodicals": "74.58"
+      },
+      {
+         "Week": "10/17/20",
+         "First-Class Mail": "85.43",
+         "USPS Marketing Mail": "91.30",
+         "Periodicals": "72.59"
+      },
+      {
+         "Week": "10/24/20",
+         "First-Class Mail": "86.45",
+         "USPS Marketing Mail": "90.02",
+         "Periodicals": "71.83"
+      }
+   ],
+   "Pacific ": [
+      {
+         "Week": "1/4/20",
+         "First-Class Mail": "93.61",
+         "USPS Marketing Mail": "93.21",
+         "Periodicals": "84.80"
+      },
+      {
+         "Week": "1/11/20",
+         "First-Class Mail": "92.62",
+         "USPS Marketing Mail": "91.93",
+         "Periodicals": "85.16"
+      },
+      {
+         "Week": "1/18/20",
+         "First-Class Mail": "93.84",
+         "USPS Marketing Mail": "92.32",
+         "Periodicals": "89.86"
+      },
+      {
+         "Week": "1/25/20",
+         "First-Class Mail": "92.35",
+         "USPS Marketing Mail": "91.46",
+         "Periodicals": "89.13"
+      },
+      {
+         "Week": "2/1/20",
+         "First-Class Mail": "90.72",
+         "USPS Marketing Mail": "88.77",
+         "Periodicals": "87.07"
+      },
+      {
+         "Week": "2/8/20",
+         "First-Class Mail": "91.51",
+         "USPS Marketing Mail": "91.83",
+         "Periodicals": "87.96"
+      },
+      {
+         "Week": "2/15/20",
+         "First-Class Mail": "94.29",
+         "USPS Marketing Mail": "93.61",
+         "Periodicals": "91.85"
+      },
+      {
+         "Week": "2/22/20",
+         "First-Class Mail": "93.78",
+         "USPS Marketing Mail": "95.10",
+         "Periodicals": "89.31"
+      },
+      {
+         "Week": "2/29/20",
+         "First-Class Mail": "93.69",
+         "USPS Marketing Mail": "92.77",
+         "Periodicals": "84.15"
+      },
+      {
+         "Week": "3/7/20",
+         "First-Class Mail": "93.49",
+         "USPS Marketing Mail": "93.46",
+         "Periodicals": "87.32"
+      },
+      {
+         "Week": "3/14/20",
+         "First-Class Mail": "92.64",
+         "USPS Marketing Mail": "93.28",
+         "Periodicals": "87.73"
+      },
+      {
+         "Week": "3/21/20",
+         "First-Class Mail": "93.54",
+         "USPS Marketing Mail": "94.51",
+         "Periodicals": "87.73"
+      },
+      {
+         "Week": "3/28/20",
+         "First-Class Mail": "93.57",
+         "USPS Marketing Mail": "95.26",
+         "Periodicals": "86.96"
+      },
+      {
+         "Week": "4/1/20",
+         "First-Class Mail": "93.81",
+         "USPS Marketing Mail": "90.31",
+         "Periodicals": "89.12"
+      },
+      {
+         "Week": "4/4/20",
+         "First-Class Mail": "92.72",
+         "USPS Marketing Mail": "94.14",
+         "Periodicals": "88.47"
+      },
+      {
+         "Week": "4/11/20",
+         "First-Class Mail": "91.65",
+         "USPS Marketing Mail": "93.72",
+         "Periodicals": "83.55"
+      },
+      {
+         "Week": "4/18/20",
+         "First-Class Mail": "92.50",
+         "USPS Marketing Mail": "91.95",
+         "Periodicals": "86.33"
+      },
+      {
+         "Week": "4/25/20",
+         "First-Class Mail": "90.30",
+         "USPS Marketing Mail": "92.08",
+         "Periodicals": "81.57"
+      },
+      {
+         "Week": "5/2/20",
+         "First-Class Mail": "91.48",
+         "USPS Marketing Mail": "92.89",
+         "Periodicals": "82.21"
+      },
+      {
+         "Week": "5/9/20",
+         "First-Class Mail": "89.83",
+         "USPS Marketing Mail": "92.48",
+         "Periodicals": "76.42"
+      },
+      {
+         "Week": "5/16/20",
+         "First-Class Mail": "91.10",
+         "USPS Marketing Mail": "92.80",
+         "Periodicals": "79.79"
+      },
+      {
+         "Week": "5/23/20",
+         "First-Class Mail": "92.14",
+         "USPS Marketing Mail": "91.87",
+         "Periodicals": "79.56"
+      },
+      {
+         "Week": "5/30/20",
+         "First-Class Mail": "90.43",
+         "USPS Marketing Mail": "91.48",
+         "Periodicals": "77.38"
+      },
+      {
+         "Week": "6/6/20",
+         "First-Class Mail": "90.74",
+         "USPS Marketing Mail": "91.61",
+         "Periodicals": "77.79"
+      },
+      {
+         "Week": "6/13/20",
+         "First-Class Mail": "91.85",
+         "USPS Marketing Mail": "91.48",
+         "Periodicals": "81.97"
+      },
+      {
+         "Week": "6/20/20",
+         "First-Class Mail": "89.79",
+         "USPS Marketing Mail": "90.86",
+         "Periodicals": "81.10"
+      },
+      {
+         "Week": "6/27/20",
+         "First-Class Mail": "90.64",
+         "USPS Marketing Mail": "91.67",
+         "Periodicals": "81.63"
+      },
+      {
+         "Week": "7/1/20",
+         "First-Class Mail": "91.54",
+         "USPS Marketing Mail": "87.77",
+         "Periodicals": "83.93"
+      },
+      {
+         "Week": "7/4/20",
+         "First-Class Mail": "91.17",
+         "USPS Marketing Mail": "88.17",
+         "Periodicals": "75.26"
+      },
+      {
+         "Week": "7/11/20",
+         "First-Class Mail": "86.26",
+         "USPS Marketing Mail": "85.84",
+         "Periodicals": "71.24"
+      },
+      {
+         "Week": "7/18/20",
+         "First-Class Mail": "82.52",
+         "USPS Marketing Mail": "82.14",
+         "Periodicals": "74.54"
+      },
+      {
+         "Week": "7/25/20",
+         "First-Class Mail": "84.12",
+         "USPS Marketing Mail": "85.11",
+         "Periodicals": "69.36"
+      },
+      {
+         "Week": "8/1/20",
+         "First-Class Mail": "80.80",
+         "USPS Marketing Mail": "83.60",
+         "Periodicals": "64.08"
+      },
+      {
+         "Week": "8/8/20",
+         "First-Class Mail": "81.29",
+         "USPS Marketing Mail": "85.75",
+         "Periodicals": "67.68"
+      },
+      {
+         "Week": "8/15/20",
+         "First-Class Mail": "86.37",
+         "USPS Marketing Mail": "89.32",
+         "Periodicals": "72.57"
+      },
+      {
+         "Week": "8/22/20",
+         "First-Class Mail": "88.84",
+         "USPS Marketing Mail": "91.04",
+         "Periodicals": "76.21"
+      },
+      {
+         "Week": "8/29/20",
+         "First-Class Mail": "90.24",
+         "USPS Marketing Mail": "90.64",
+         "Periodicals": "80.06"
+      },
+      {
+         "Week": "9/5/20",
+         "First-Class Mail": "91.22",
+         "USPS Marketing Mail": "91.11",
+         "Periodicals": "80.99"
+      },
+      {
+         "Week": "9/12/20",
+         "First-Class Mail": "90.91",
+         "USPS Marketing Mail": "91.51",
+         "Periodicals": "81.10"
+      },
+      {
+         "Week": "9/19/20",
+         "First-Class Mail": "90.70",
+         "USPS Marketing Mail": "93.56",
+         "Periodicals": "87.02"
+      },
+      {
+         "Week": "9/26/20",
+         "First-Class Mail": "90.77",
+         "USPS Marketing Mail": "93.35",
+         "Periodicals": "81.83"
+      },
+      {
+         "Week": "10/3/20",
+         "First-Class Mail": "90.10",
+         "USPS Marketing Mail": "93.63",
+         "Periodicals": "83.00"
+      },
+      {
+         "Week": "10/10/20",
+         "First-Class Mail": "90.73",
+         "USPS Marketing Mail": "91.92",
+         "Periodicals": "80.21"
+      },
+      {
+         "Week": "10/17/20",
+         "First-Class Mail": "87.42",
+         "USPS Marketing Mail": "94.13",
+         "Periodicals": "79.07"
+      },
+      {
+         "Week": "10/24/20",
+         "First-Class Mail": "88.62",
+         "USPS Marketing Mail": "94.38",
+         "Periodicals": "80.93"
+      }
+   ],
+   "Southern ": [
+      {
+         "Week": "1/4/20",
+         "First-Class Mail": "91.96",
+         "USPS Marketing Mail": "91.10",
+         "Periodicals": "84.77"
+      },
+      {
+         "Week": "1/11/20",
+         "First-Class Mail": "91.03",
+         "USPS Marketing Mail": "87.45",
+         "Periodicals": "85.13"
+      },
+      {
+         "Week": "1/18/20",
+         "First-Class Mail": "93.47",
+         "USPS Marketing Mail": "88.19",
+         "Periodicals": "86.46"
+      },
+      {
+         "Week": "1/25/20",
+         "First-Class Mail": "91.52",
+         "USPS Marketing Mail": "90.04",
+         "Periodicals": "88.85"
+      },
+      {
+         "Week": "2/1/20",
+         "First-Class Mail": "91.36",
+         "USPS Marketing Mail": "90.05",
+         "Periodicals": "86.98"
+      },
+      {
+         "Week": "2/8/20",
+         "First-Class Mail": "92.07",
+         "USPS Marketing Mail": "91.64",
+         "Periodicals": "87.48"
+      },
+      {
+         "Week": "2/15/20",
+         "First-Class Mail": "93.87",
+         "USPS Marketing Mail": "91.60",
+         "Periodicals": "88.06"
+      },
+      {
+         "Week": "2/22/20",
+         "First-Class Mail": "92.56",
+         "USPS Marketing Mail": "92.30",
+         "Periodicals": "86.83"
+      },
+      {
+         "Week": "2/29/20",
+         "First-Class Mail": "93.23",
+         "USPS Marketing Mail": "91.98",
+         "Periodicals": "87.74"
+      },
+      {
+         "Week": "3/7/20",
+         "First-Class Mail": "92.38",
+         "USPS Marketing Mail": "91.56",
+         "Periodicals": "85.73"
+      },
+      {
+         "Week": "3/14/20",
+         "First-Class Mail": "91.83",
+         "USPS Marketing Mail": "90.23",
+         "Periodicals": "85.16"
+      },
+      {
+         "Week": "3/21/20",
+         "First-Class Mail": "93.39",
+         "USPS Marketing Mail": "92.77",
+         "Periodicals": "86.53"
+      },
+      {
+         "Week": "3/28/20",
+         "First-Class Mail": "93.12",
+         "USPS Marketing Mail": "94.98",
+         "Periodicals": "86.48"
+      },
+      {
+         "Week": "4/1/20",
+         "First-Class Mail": "93.38",
+         "USPS Marketing Mail": "91.72",
+         "Periodicals": "88.84"
+      },
+      {
+         "Week": "4/4/20",
+         "First-Class Mail": "92.33",
+         "USPS Marketing Mail": "94.01",
+         "Periodicals": "86.97"
+      },
+      {
+         "Week": "4/11/20",
+         "First-Class Mail": "91.03",
+         "USPS Marketing Mail": "93.61",
+         "Periodicals": "80.96"
+      },
+      {
+         "Week": "4/18/20",
+         "First-Class Mail": "92.56",
+         "USPS Marketing Mail": "93.59",
+         "Periodicals": "86.73"
+      },
+      {
+         "Week": "4/25/20",
+         "First-Class Mail": "91.99",
+         "USPS Marketing Mail": "91.68",
+         "Periodicals": "83.97"
+      },
+      {
+         "Week": "5/2/20",
+         "First-Class Mail": "91.40",
+         "USPS Marketing Mail": "91.60",
+         "Periodicals": "80.60"
+      },
+      {
+         "Week": "5/9/20",
+         "First-Class Mail": "90.61",
+         "USPS Marketing Mail": "90.07",
+         "Periodicals": "71.47"
+      },
+      {
+         "Week": "5/16/20",
+         "First-Class Mail": "92.05",
+         "USPS Marketing Mail": "91.16",
+         "Periodicals": "79.32"
+      },
+      {
+         "Week": "5/23/20",
+         "First-Class Mail": "93.01",
+         "USPS Marketing Mail": "89.87",
+         "Periodicals": "80.48"
+      },
+      {
+         "Week": "5/30/20",
+         "First-Class Mail": "91.22",
+         "USPS Marketing Mail": "91.55",
+         "Periodicals": "81.97"
+      },
+      {
+         "Week": "6/6/20",
+         "First-Class Mail": "90.94",
+         "USPS Marketing Mail": "90.28",
+         "Periodicals": "79.37"
+      },
+      {
+         "Week": "6/13/20",
+         "First-Class Mail": "92.00",
+         "USPS Marketing Mail": "90.90",
+         "Periodicals": "80.87"
+      },
+      {
+         "Week": "6/20/20",
+         "First-Class Mail": "90.63",
+         "USPS Marketing Mail": "90.60",
+         "Periodicals": "81.47"
+      },
+      {
+         "Week": "6/27/20",
+         "First-Class Mail": "90.45",
+         "USPS Marketing Mail": "91.90",
+         "Periodicals": "79.90"
+      },
+      {
+         "Week": "7/1/20",
+         "First-Class Mail": "92.37",
+         "USPS Marketing Mail": "90.16",
+         "Periodicals": "82.94"
+      },
+      {
+         "Week": "7/4/20",
+         "First-Class Mail": "90.68",
+         "USPS Marketing Mail": "87.43",
+         "Periodicals": "77.49"
+      },
+      {
+         "Week": "7/11/20",
+         "First-Class Mail": "84.76",
+         "USPS Marketing Mail": "79.47",
+         "Periodicals": "74.99"
+      },
+      {
+         "Week": "7/18/20",
+         "First-Class Mail": "81.60",
+         "USPS Marketing Mail": "76.82",
+         "Periodicals": "69.06"
+      },
+      {
+         "Week": "7/25/20",
+         "First-Class Mail": "84.82",
+         "USPS Marketing Mail": "80.34",
+         "Periodicals": "71.90"
+      },
+      {
+         "Week": "8/1/20",
+         "First-Class Mail": "84.42",
+         "USPS Marketing Mail": "81.51",
+         "Periodicals": "70.25"
+      },
+      {
+         "Week": "8/8/20",
+         "First-Class Mail": "82.51",
+         "USPS Marketing Mail": "84.94",
+         "Periodicals": "67.60"
+      },
+      {
+         "Week": "8/15/20",
+         "First-Class Mail": "86.42",
+         "USPS Marketing Mail": "86.98",
+         "Periodicals": "71.62"
+      },
+      {
+         "Week": "8/22/20",
+         "First-Class Mail": "88.25",
+         "USPS Marketing Mail": "89.95",
+         "Periodicals": "75.23"
+      },
+      {
+         "Week": "8/29/20",
+         "First-Class Mail": "87.98",
+         "USPS Marketing Mail": "90.47",
+         "Periodicals": "83.86"
+      },
+      {
+         "Week": "9/5/20",
+         "First-Class Mail": "89.50",
+         "USPS Marketing Mail": "87.49",
+         "Periodicals": "79.54"
+      },
+      {
+         "Week": "9/12/20",
+         "First-Class Mail": "87.10",
+         "USPS Marketing Mail": "87.40",
+         "Periodicals": "79.28"
+      },
+      {
+         "Week": "9/19/20",
+         "First-Class Mail": "85.15",
+         "USPS Marketing Mail": "88.82",
+         "Periodicals": "80.46"
+      },
+      {
+         "Week": "9/26/20",
+         "First-Class Mail": "86.61",
+         "USPS Marketing Mail": "90.12",
+         "Periodicals": "80.10"
+      },
+      {
+         "Week": "10/3/20",
+         "First-Class Mail": "86.16",
+         "USPS Marketing Mail": "89.51",
+         "Periodicals": "79.05"
+      },
+      {
+         "Week": "10/10/20",
+         "First-Class Mail": "85.99",
+         "USPS Marketing Mail": "86.23",
+         "Periodicals": "77.57"
+      },
+      {
+         "Week": "10/17/20",
+         "First-Class Mail": "81.89",
+         "USPS Marketing Mail": "87.86",
+         "Periodicals": "76.49"
+      },
+      {
+         "Week": "10/24/20",
+         "First-Class Mail": "82.82",
+         "USPS Marketing Mail": "87.12",
+         "Periodicals": "79.48"
+      }
+   ],
+   "Western ": [
+      {
+         "Week": "1/4/20",
+         "First-Class Mail": "91.85",
+         "USPS Marketing Mail": "91.52",
+         "Periodicals": "87.68"
+      },
+      {
+         "Week": "1/11/20",
+         "First-Class Mail": "90.75",
+         "USPS Marketing Mail": "90.60",
+         "Periodicals": "88.44"
+      },
+      {
+         "Week": "1/18/20",
+         "First-Class Mail": "92.92",
+         "USPS Marketing Mail": "91.35",
+         "Periodicals": "87.56"
+      },
+      {
+         "Week": "1/25/20",
+         "First-Class Mail": "90.67",
+         "USPS Marketing Mail": "93.22",
+         "Periodicals": "89.11"
+      },
+      {
+         "Week": "2/1/20",
+         "First-Class Mail": "90.42",
+         "USPS Marketing Mail": "91.63",
+         "Periodicals": "89.21"
+      },
+      {
+         "Week": "2/8/20",
+         "First-Class Mail": "91.82",
+         "USPS Marketing Mail": "93.23",
+         "Periodicals": "91.20"
+      },
+      {
+         "Week": "2/15/20",
+         "First-Class Mail": "94.19",
+         "USPS Marketing Mail": "92.59",
+         "Periodicals": "91.04"
+      },
+      {
+         "Week": "2/22/20",
+         "First-Class Mail": "93.32",
+         "USPS Marketing Mail": "94.21",
+         "Periodicals": "90.29"
+      },
+      {
+         "Week": "2/29/20",
+         "First-Class Mail": "93.54",
+         "USPS Marketing Mail": "94.12",
+         "Periodicals": "88.10"
+      },
+      {
+         "Week": "3/7/20",
+         "First-Class Mail": "92.14",
+         "USPS Marketing Mail": "93.33",
+         "Periodicals": "88.26"
+      },
+      {
+         "Week": "3/14/20",
+         "First-Class Mail": "92.37",
+         "USPS Marketing Mail": "93.23",
+         "Periodicals": "88.94"
+      },
+      {
+         "Week": "3/21/20",
+         "First-Class Mail": "92.56",
+         "USPS Marketing Mail": "94.25",
+         "Periodicals": "88.05"
+      },
+      {
+         "Week": "3/28/20",
+         "First-Class Mail": "92.66",
+         "USPS Marketing Mail": "94.77",
+         "Periodicals": "87.13"
+      },
+      {
+         "Week": "4/1/20",
+         "First-Class Mail": "93.11",
+         "USPS Marketing Mail": "93.38",
+         "Periodicals": "87.83"
+      },
+      {
+         "Week": "4/4/20",
+         "First-Class Mail": "92.16",
+         "USPS Marketing Mail": "94.18",
+         "Periodicals": "85.19"
+      },
+      {
+         "Week": "4/11/20",
+         "First-Class Mail": "90.85",
+         "USPS Marketing Mail": "93.38",
+         "Periodicals": "85.44"
+      },
+      {
+         "Week": "4/18/20",
+         "First-Class Mail": "92.59",
+         "USPS Marketing Mail": "94.15",
+         "Periodicals": "85.72"
+      },
+      {
+         "Week": "4/25/20",
+         "First-Class Mail": "91.33",
+         "USPS Marketing Mail": "93.95",
+         "Periodicals": "81.55"
+      },
+      {
+         "Week": "5/2/20",
+         "First-Class Mail": "91.29",
+         "USPS Marketing Mail": "93.19",
+         "Periodicals": "83.64"
+      },
+      {
+         "Week": "5/9/20",
+         "First-Class Mail": "90.69",
+         "USPS Marketing Mail": "92.87",
+         "Periodicals": "81.15"
+      },
+      {
+         "Week": "5/16/20",
+         "First-Class Mail": "92.65",
+         "USPS Marketing Mail": "94.29",
+         "Periodicals": "83.71"
+      },
+      {
+         "Week": "5/23/20",
+         "First-Class Mail": "93.25",
+         "USPS Marketing Mail": "92.86",
+         "Periodicals": "84.07"
+      },
+      {
+         "Week": "5/30/20",
+         "First-Class Mail": "90.87",
+         "USPS Marketing Mail": "93.97",
+         "Periodicals": "83.69"
+      },
+      {
+         "Week": "6/6/20",
+         "First-Class Mail": "91.43",
+         "USPS Marketing Mail": "92.32",
+         "Periodicals": "83.19"
+      },
+      {
+         "Week": "6/13/20",
+         "First-Class Mail": "92.54",
+         "USPS Marketing Mail": "93.64",
+         "Periodicals": "85.51"
+      },
+      {
+         "Week": "6/20/20",
+         "First-Class Mail": "92.13",
+         "USPS Marketing Mail": "92.75",
+         "Periodicals": "83.29"
+      },
+      {
+         "Week": "6/27/20",
+         "First-Class Mail": "90.95",
+         "USPS Marketing Mail": "93.64",
+         "Periodicals": "87.16"
+      },
+      {
+         "Week": "7/1/20",
+         "First-Class Mail": "91.94",
+         "USPS Marketing Mail": "91.87",
+         "Periodicals": "85.42"
+      },
+      {
+         "Week": "7/4/20",
+         "First-Class Mail": "91.37",
+         "USPS Marketing Mail": "89.49",
+         "Periodicals": "82.28"
+      },
+      {
+         "Week": "7/11/20",
+         "First-Class Mail": "86.80",
+         "USPS Marketing Mail": "88.39",
+         "Periodicals": "81.39"
+      },
+      {
+         "Week": "7/18/20",
+         "First-Class Mail": "84.66",
+         "USPS Marketing Mail": "86.94",
+         "Periodicals": "82.10"
+      },
+      {
+         "Week": "7/25/20",
+         "First-Class Mail": "87.04",
+         "USPS Marketing Mail": "90.19",
+         "Periodicals": "79.07"
+      },
+      {
+         "Week": "8/1/20",
+         "First-Class Mail": "86.05",
+         "USPS Marketing Mail": "88.72",
+         "Periodicals": "79.39"
+      },
+      {
+         "Week": "8/8/20",
+         "First-Class Mail": "84.67",
+         "USPS Marketing Mail": "89.79",
+         "Periodicals": "76.24"
+      },
+      {
+         "Week": "8/15/20",
+         "First-Class Mail": "86.23",
+         "USPS Marketing Mail": "91.11",
+         "Periodicals": "80.10"
+      },
+      {
+         "Week": "8/22/20",
+         "First-Class Mail": "87.48",
+         "USPS Marketing Mail": "93.13",
+         "Periodicals": "81.52"
+      },
+      {
+         "Week": "8/29/20",
+         "First-Class Mail": "87.23",
+         "USPS Marketing Mail": "92.48",
+         "Periodicals": "82.57"
+      },
+      {
+         "Week": "9/5/20",
+         "First-Class Mail": "88.86",
+         "USPS Marketing Mail": "90.35",
+         "Periodicals": "84.37"
+      },
+      {
+         "Week": "9/12/20",
+         "First-Class Mail": "87.12",
+         "USPS Marketing Mail": "90.00",
+         "Periodicals": "83.06"
+      },
+      {
+         "Week": "9/19/20",
+         "First-Class Mail": "87.66",
+         "USPS Marketing Mail": "92.59",
+         "Periodicals": "83.96"
+      },
+      {
+         "Week": "9/26/20",
+         "First-Class Mail": "87.70",
+         "USPS Marketing Mail": "91.99",
+         "Periodicals": "82.64"
+      },
+      {
+         "Week": "10/3/20",
+         "First-Class Mail": "88.38",
+         "USPS Marketing Mail": "93.29",
+         "Periodicals": "82.07"
+      },
+      {
+         "Week": "10/10/20",
+         "First-Class Mail": "87.48",
+         "USPS Marketing Mail": "87.39",
+         "Periodicals": "84.12"
+      },
+      {
+         "Week": "10/17/20",
+         "First-Class Mail": "82.88",
+         "USPS Marketing Mail": "88.93",
+         "Periodicals": "80.21"
+      },
+      {
+         "Week": "10/24/20",
+         "First-Class Mail": "84.50",
+         "USPS Marketing Mail": "90.19",
+         "Periodicals": "82.67"
+      }
+   ]
+}
